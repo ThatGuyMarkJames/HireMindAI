@@ -1,0 +1,22 @@
+{
+  "sessions": [
+    {
+      "timestamp": "2026-03-29T05:22:12.293092",
+      "filename": "resumeai.txt",
+      "score": 86.8,
+      "missing_count": 10
+    }
+  ],
+  "missing_skills_freq": {
+    "agile": 1,
+    "aws": 1,
+    "c++ *": 1,
+    "chennai": 1,
+    "computer science": 1,
+    "data structures": 1,
+    "django": 1,
+    "html": 1,
+    "modern computing systems": 1,
+    "software engineer": 1
+  }
+}
